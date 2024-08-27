@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/iaman/OneDrive/Desktop/Codeforces",
       "program": "c:/Users/iaman/OneDrive/Desktop/Codeforces/build/Debug/outDebug",
+=======
+      "cwd": "d:/Codes/DSA/Codeforces",
+      "program": "d:/Codes/DSA/Codeforces/build/Debug/outDebug",
+>>>>>>> 06c7733e568acc9cf6f71bd46f668d738415bc2c
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
