@@ -46,7 +46,7 @@ int maximize_friends(int n, vector<int> &a, vector<int> &b, vector<int> &c)
         }
     }
 
-    return max_sum;
+    cout << max_sum << endl;
 }
 
 int main()
@@ -69,7 +69,10 @@ int main()
         for (int i = 0; i < n; i++)
         {
             cin >> c[i];
-        } // Output: 110
+        }
+        maximize_friends(n, a, b, c);
+
+        // Output: 110
     }
     return 0;
 }
