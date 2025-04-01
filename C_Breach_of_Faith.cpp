@@ -21,7 +21,7 @@ void solve()
     for (int i = 0; i < 2 * n; i++)
     {
         cin >> a[i];
-    }
+    }cc
     sort(a.begin(), a.end());
     int even = 0, odd = 0;
     for (int i = 0; i < 2 * n; i++)
